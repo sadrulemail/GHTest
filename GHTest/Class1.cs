@@ -6,5 +6,6 @@ namespace GHTest
 {
     class Class1
     {
+        string va = "ddqasads";
     }
 }
