@@ -6,12 +6,8 @@ namespace GHTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("2nd Stage from Local!!");
-             Console.WriteLine("3rd Stage from GitHub!!");
-            Console.WriteLine("2nd Programmer clone it, made changes!!");
-
-            Console.WriteLine("Changed from --2nd Step!!!!!!");
+            Console.WriteLine("DEV Branch!");
+          
 
         }
     }
