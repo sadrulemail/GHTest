@@ -8,6 +8,7 @@ namespace GHTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("2nd Stage from Local!!");
+             Console.WriteLine("3rs Stage from GitHub!!");
         }
     }
 }
